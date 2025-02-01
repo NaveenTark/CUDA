@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navee\\source\\repos\\LearningCuda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805EC65F-BAB5-454B-B991-F49332742A66}|Indexing\\Indexing.vcxproj|C:\\Users\\navee\\source\\repos\\LearningCuda\\Indexing\\Indexing.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{805EC65F-BAB5-454B-B991-F49332742A66}|Indexing\\Indexing.vcxproj|solutionrelative:Indexing\\Indexing.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indexing.cu",
+              "DocumentMoniker": "C:\\Users\\navee\\source\\repos\\LearningCuda\\Indexing\\Indexing.cu",
+              "RelativeDocumentMoniker": "Indexing\\Indexing.cu",
+              "ToolTip": "C:\\Users\\navee\\source\\repos\\LearningCuda\\Indexing\\Indexing.cu",
+              "RelativeToolTip": "Indexing\\Indexing.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T19:07:03.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
