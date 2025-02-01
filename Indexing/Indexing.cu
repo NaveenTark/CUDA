@@ -26,6 +26,7 @@ int main()
 	dim3 blocksPerGrid(b_x, b_y, b_z);
 	dim3 threadsPerBlock(t_x, t_y, t_z);
 	whoami <<<blocksPerGrid, threadsPerBlock >>> ();
+	cudaDeviceSynchronize();
 
 
 }
