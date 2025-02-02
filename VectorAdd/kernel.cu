@@ -8,6 +8,9 @@
 #include <iostream>
 
 #define N 1000000
+#define ITERATIONS 20
+
+
 void CPU_add(float* a, float* b, float* c, size_t n)
 {
 	for (size_t i = 0;i < n;i++)
@@ -15,6 +18,8 @@ void CPU_add(float* a, float* b, float* c, size_t n)
 		c[i] = a[i] + b[i];
 	}
 }
+
+
 
 int main()
 {
@@ -33,14 +38,26 @@ int main()
 	}
 
 	
-	// Measure time for CPU_add
-	auto start = std::chrono::high_resolution_clock::now();
-	CPU_add(h_a, h_b, h_c, N);
-	auto end = std::chrono::high_resolution_clock::now();
+	// Benchmarking CPU_add over multiple iterations
+	double total_duration = 0.0;
 
-	// Calculate the duration
-	std::chrono::duration<double> duration = end - start;
-	std::cout << "Time taken for CPU_add: " << duration.count() << " seconds" << '\n';
+	for (int iter = 0; iter < ITERATIONS; ++iter) {
+		auto start = std::chrono::high_resolution_clock::now();
+		CPU_add(h_a, h_b, h_c, N);
+		auto end = std::chrono::high_resolution_clock::now();
+
+		// Calculate the duration for this iteration
+		std::chrono::duration<double> duration = end - start;
+		total_duration += duration.count();
+	}
+
+	// Calculate average time taken
+	double average_duration = total_duration / ITERATIONS;
+	std::cout << "Average time taken for CPU_add over " << ITERATIONS
+		<< " iterations: " << average_duration << " seconds" << std::endl;
+
+
+
 
 	// Clean up
 	delete[] h_a;

@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "VectorAdd\\kernel.cu",
               "ToolTip": "C:\\Users\\navee\\source\\repos\\LearningCuda\\VectorAdd\\kernel.cu",
               "RelativeToolTip": "VectorAdd\\kernel.cu",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABRAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-01T23:23:20.2Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Indexing\\Indexing.cu",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-01T19:07:03.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T19:07:03.132Z"
             }
           ]
         }
