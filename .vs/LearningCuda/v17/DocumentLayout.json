@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\navee\\source\\repos\\LearningCuda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB5D102A-6680-41E5-8A23-9B7569D90A54}|VectorAdd\\VectorAdd.vcxproj|C:\\Users\\navee\\source\\repos\\LearningCuda\\VectorAdd\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB5D102A-6680-41E5-8A23-9B7569D90A54}|VectorAdd\\VectorAdd.vcxproj|solutionrelative:VectorAdd\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{805EC65F-BAB5-454B-B991-F49332742A66}|Indexing\\Indexing.vcxproj|C:\\Users\\navee\\source\\repos\\LearningCuda\\Indexing\\Indexing.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{805EC65F-BAB5-454B-B991-F49332742A66}|Indexing\\Indexing.vcxproj|solutionrelative:Indexing\\Indexing.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\navee\\source\\repos\\LearningCuda\\VectorAdd\\kernel.cu",
+              "RelativeDocumentMoniker": "VectorAdd\\kernel.cu",
+              "ToolTip": "C:\\Users\\navee\\source\\repos\\LearningCuda\\VectorAdd\\kernel.cu",
+              "RelativeToolTip": "VectorAdd\\kernel.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T23:23:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Indexing.cu",
               "DocumentMoniker": "C:\\Users\\navee\\source\\repos\\LearningCuda\\Indexing\\Indexing.cu",
               "RelativeDocumentMoniker": "Indexing\\Indexing.cu",
               "ToolTip": "C:\\Users\\navee\\source\\repos\\LearningCuda\\Indexing\\Indexing.cu",
               "RelativeToolTip": "Indexing\\Indexing.cu",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-01T19:07:03.132Z",
               "EditorCaption": ""
