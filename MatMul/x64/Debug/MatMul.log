@@ -1,0 +1,6 @@
+﻿  LINK : C:\Users\navee\source\repos\LearningCuda\x64\Debug\MatMul.exe not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\navee\source\repos\LearningCuda\x64\Debug\MatMul.lib and object C:\Users\navee\source\repos\LearningCuda\x64\Debug\MatMul.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  MatMul.vcxproj -> C:\Users\navee\source\repos\LearningCuda\x64\Debug\MatMul.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
