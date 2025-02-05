@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AB5D102A-6680-41E5-8A23-9B7569D90A54}</ProjectGuid>
-    <RootNamespace>VectorAdd</RootNamespace>
+    <ProjectGuid>{801E9424-9DA3-40FD-8293-E7DFE46642A4}</ProjectGuid>
+    <RootNamespace>MatMul</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
