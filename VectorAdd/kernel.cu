@@ -71,6 +71,8 @@ __global__ void GPU_add_3D(float* a, float* b, float* c, size_t n) {
     }
 }
 
+
+
 int main() {
     float* h_a = new float[N];
     float* h_b = new float[N];
